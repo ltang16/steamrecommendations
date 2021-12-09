@@ -1,0 +1,2 @@
+# Steam Recommendations
+For the final project of Data 144, my work (independent of my group) involved cleaning a dataset containing data about 27k+ Steam games and using k-means clustering to build a recommendation system. This system, given the title of a game as input, returned games that were considered to be similar because they were from the same cluster. Everything was coded in a Jupyter notebook.
